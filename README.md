@@ -1,6 +1,6 @@
 # Grid-based-Information-Extraction
 
-## Authors: Wenyuan Zhao, Lingdo Ye, Ziyan Cui
+## Authors: Wenyuan Zhao, Lindong Ye, Ziyan Cui
 
 ## Description
 This project aims to solve the problem of key information extraction from visual rich document by a modified Grid-based mothod.
